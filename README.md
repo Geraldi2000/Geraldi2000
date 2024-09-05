@@ -7,7 +7,7 @@
 
 ## Oi!!! Eu Sou o Matheus Geraldi👋
 
-- 🔭 Estou procurando uma oportunidade de trabalho na area de TI
+- 🔭 Estou procurando uma oportunidade de trabalho na área de TI
 - 🌱 Estudando HTML/CSS, JavaScript, Python, FullStak
 - 😄 Pronouns: ele/dele
 
