@@ -1,3 +1,10 @@
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=1D1FD2FF&center=true&vCenter=true&random=false&width=524&lines=⊹+Welcome+to+my+profile!+˙ᵕ˙+⊹+" alt="Geras">
+  </a>  
+</div>
+
 ## Oi!!! Eu Sou o Matheus Geraldi👋
 
 - 🔭 Estou procurando uma oportunidade de trabalho na area de TI
