@@ -27,7 +27,7 @@
   <a href="https://github.com/Geraldi2000/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Geraldi2000&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&hide=html&title_color=FFF&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=FFF&count_private=true" alt="Most Used Languages">
   </a>
-  <!-- &hide=html,css -->
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Geraldi2000&theme=javascript-dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 ##
